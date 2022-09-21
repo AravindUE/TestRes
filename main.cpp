@@ -1,0 +1,1 @@
+mainFuntion gives info
